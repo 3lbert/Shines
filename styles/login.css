@@ -1,0 +1,22 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css";
+
+#title,#subtitle{
+    position: relative;
+    left: 50px;
+}
+
+#title{
+    top: 250px;
+}
+
+#subtitle{
+    top: 260px;
+    width:800px;
+}
+
+#login{
+    position: relative;
+    left: 940px;
+    top: 100px;
+    width: 500px;
+}
