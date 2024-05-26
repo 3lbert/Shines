@@ -2,7 +2,7 @@
 
 #title,#subtitle{
     position: relative;
-    left: 50px;
+    left: 650px;
 }
 
 #title{
@@ -16,7 +16,7 @@
 
 #login{
     position: relative;
-    left: 940px;
+    left: 50px;
     top: 5px;
     width: 500px;
 }
